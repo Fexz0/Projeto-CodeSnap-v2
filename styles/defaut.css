@@ -44,3 +44,7 @@ h2.title{
 h2.title span{
     color: #1FEDC8;
 }
+
+html{
+    scroll-behavior: smooth;
+}

@@ -56,7 +56,7 @@ header nav.menu-desktop ul li {
     display: block;
 }
 
-.menu-mobile .flp-fechar {
+.menu-mobile .cs-fechar {
     padding: 20px 5%;
 }
 
@@ -385,7 +385,7 @@ footer .line-footer p a {
     }
 
     /*CABEÇALHO*/
-    .menu-desktop, .cs-contato{
+    .menu-desktop, .cs-login{
         display: none;
     }
 
