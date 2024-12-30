@@ -317,6 +317,10 @@ section.sobre {
     color: #1FEDC8;
 }
 
+.sobre .interface h1{
+    margin-top: 45px;
+}
+
 .sobre .interface h3{
     color: #fff;
     font-size: 20px;
