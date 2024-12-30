@@ -157,7 +157,7 @@ section.linguagens .flex {
     margin: 10px 0;
 }
 
-.linguagens .cta h3{
+.cta h3{
     color: #fff;
     font-size: 20px;
     text-align: center;
@@ -277,6 +277,45 @@ section.sobre {
 .sobre .cta-button {
     text-align: center;
     margin-top: 25px;
+}
+
+.sobre .txt-top-web h1{
+    color: #fff;
+    font-size: 34px;
+    line-height: 39px;
+    padding: 40px 4%;
+}
+
+.sobre .txt-top-web p{
+    color: #fff;
+    padding: 0px 4%;
+}
+
+.sobre .sobre-box{
+    color: #fff;
+    padding: 40px;
+    border-radius: 25px;
+    margin-top: 45px;
+    transition: .3s;
+    cursor: pointer;
+}
+
+.sobre .sobre-box:hover{
+    transform: scale(1.05s);
+    box-shadow: 0 0 20px #ffffff75;
+}
+
+.sobre .sobre-box i{
+    font-size: 45px;
+    color: #1FEDC8;
+}
+
+.sobre .interface h3{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 4%;
+    margin-top: 20px;
 }
 
 /*CONTATOS*/
