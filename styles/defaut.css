@@ -35,13 +35,13 @@ button:hover, form .cs-enviar input:hover{
     display: flex;
 }
 
-h2.title{
+.title{
     color: #fff;
     font-size: 32px;
     text-align: center;
 }
 
-h2.title span{
+.title span{
     color: #1FEDC8;
 }
 
