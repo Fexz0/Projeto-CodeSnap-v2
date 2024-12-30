@@ -267,6 +267,13 @@ section.sobre {
     padding: 40px 4%;
 }
 
+.sobre h1.title{
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 20px;
+}
+
 .sobre .subtitle1 {
     margin-top: 25px;
     color: #fff;
@@ -308,10 +315,6 @@ section.sobre {
 .sobre .sobre-box i{
     font-size: 45px;
     color: #1FEDC8;
-}
-
-.sobre .interface h1{
-    margin-top: 45px;
 }
 
 .sobre .interface h3{
