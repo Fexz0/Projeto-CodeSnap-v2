@@ -157,6 +157,18 @@ section.linguagens .flex {
     margin: 10px 0;
 }
 
+.linguagens .cta h3{
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.linguagens .linguagens-button{
+    text-align: center;
+    margin-top: 25px;
+}
+
 /*RECURSOS*/
 section.recursos {
     padding: 40px 4%;
@@ -205,17 +217,6 @@ section.recursos .flex {
 .recursos .recursos-button {
     text-align: center;
     margin-top: 25px;
-}
-
-.recursos .recursos-button button {
-    padding: 10px 30px;
-    font-size: 16px;
-    font-weight: 625;
-    background-color: #1FEDC8;
-    border-radius: 30px;
-    border: 0;
-    cursor: pointer;
-    transition: .2s;
 }
 
 /*COMO-USAR*/
